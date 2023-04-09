@@ -10,7 +10,7 @@ As a first year engineer, I have honed my coding skills using Python and problem
 * ✉️  You can contact me at [rachidhssinne15@gmail.com](mailto:rachidhssinne15@gmail.com)
 * 🧠  I'm learning Advancing my knowledge of deep learning concepts and AI technologies, while further developing my problem-solving skills
 * 🤝  I'm open to collaborating on Exciting projects related to machine learning and data analysis
-* ⚡  lways learning and practicing with ambition - dedicated to growth and pushing boundaries.
+* ⚡  Always learning and practicing with ambition - dedicated to growth and pushing boundaries.
 
 <a href="https://www.github.com/Rachidhssin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Rachidhssin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
