@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hssin Rachid
 ====================================================================================================================================
 
-Data Scientist
+Data Science Student
 --------------
 
 As a first year engineer, I have honed my coding skills using Python and problem-solving abilities with C++. My passion for the world of data and insights led me to delve deeper into AI concepts and technologies, including supervised and unsupervised learning, tree-based models, data visualization, data cleaning, and EDA. I have been actively working on several projects to practice and refine my skills. I am seeking new and exciting opportunities to achieve my goals and turn my dreams into reality. In addition to my technical abilities, I enjoy sports and music, making me a well-rounded and versatile candidate for any company. Please feel free to explore my Github account to get a better understanding of my capabilities and experience.
