@@ -6,7 +6,7 @@ My name is **Hssin Rachid**
 
 I am an AI/ML engineer with a strong foundation in **software engineering, data, and applied machine learning**. I work primarily with **Python** and **C++**, and I enjoy building intelligent systems that combine solid engineering with real-world impact.
 
-My interests span **machine learning, deep learning, data analysis, and AI-driven products**. I have hands-on experience with supervised and unsupervised learning, tree-based models, data preprocessing, EDA, and visualization. Recently, I’ve been focusing more on **advanced AI topics**, including deep learning architectures and practical AI system design.
+My interests span **machine learning, deep learning, data analysis, and AI-driven products**. I have hands-on experience with supervised and unsupervised learning. Recently, I’ve been focusing more on **advanced AI topics**, including deep learning architectures and practical AI system design.
 
 I actively build projects to sharpen my skills, explore new ideas, and turn theory into production-ready solutions. Beyond tech, I enjoy sports and music, which helps me stay balanced and creative.  
 Feel free to explore my GitHub to see how I think, build, and iterate.
