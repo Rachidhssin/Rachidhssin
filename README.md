@@ -39,11 +39,17 @@
 
 | Domain | Technologies |
 |--------|-------------|
-| 🗣️ Large Language Models | GPT, LLaMA, Gemini, Claude |
-| 🎨 Generative AI | Stable Diffusion, DALL-E, Midjourney |
-| 🧬 Reinforcement Learning | PPO, DQN, RLHF, Multi-Agent |
+| 🧠 Large Language Models | GPT-4/5, LLaMA, Mistral, DeepSeek, Gemini, Claude |
+| 🧩 LLM Systems & Agents | RAG, Tool Use, Function Calling, Computer-Use Agents, LangChain |
+| 👁️ Multimodal AI | Vision-Language Models, LayoutLMv2, Image-to-Text, Document AI |
+| 📄 Document & Table Understanding | Table Transformer (TATR), TableNet, PubTables-1M, OCR Pipelines |
+| 🎨 Generative AI | Stable Diffusion, DALL·E, Image Generation APIs |
+| 🧬 Reinforcement Learning | PPO, DQN, RLHF, Multi-Agent Reinforcement Learning (MARL) |
 | 🔍 AI Interpretability | SHAP, LIME, Attention Visualization |
-| 🚀 AI Deployment | ONNX, TensorRT, Edge AI |
+| ⚙️ Model Training & Fine-Tuning | PyTorch, Hugging Face Transformers, Parameter Efficient Fine-Tuning |
+| 🚀 AI Deployment & Inference | ONNX, TensorRT, Model APIs, GPU Inference |
+| 🏗️ AI Systems Engineering | Python, Flask APIs, AI Pipelines, Data Processing |
+| 📊 AI for Data & Finance | Financial Data Extraction, Dataset Generation, Predictive Analytics |
 
 ## 🛠️ Tech Stack & Skills
 
