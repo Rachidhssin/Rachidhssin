@@ -1,5 +1,5 @@
 Hi 👋  
-My name is **Hssin Rachid**
+My name is **Rachid Hssin**
 ==========================
 
 ### AI / Machine Learning Engineer
